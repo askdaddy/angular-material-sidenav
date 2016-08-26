@@ -26,7 +26,7 @@
     "angular-messages": "^1.5.8",
     "angular-resource": "^1.5.8",
     "angular-route": "^1.5.8",
-    "angular-sanitize": "~1.4.2",
+    "angular-sanitize": "~1.5.8",
     "angular-touch": "^1.5.8",
     "angular-material": "^1.1.0",
     "angular-ui-router": "^0.3.1"
